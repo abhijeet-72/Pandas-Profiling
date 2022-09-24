@@ -3,9 +3,9 @@ Automated Profiling using Pandas Profiling
 
 
 To get started with Exploratory Data Analysis (EDA) with given dataset, we can automate the data profiling using libraries like :
-	Pandas Profiling
-	Autoviz
-	Sweetviz
+	\n\tPandas Profiling
+	\n\tAutoviz
+	\n\tSweetviz
 
 Here are examples of data profiling using Pandas Profiling.
 
