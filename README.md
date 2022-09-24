@@ -7,6 +7,6 @@ To get started with Exploratory Data Analysis (EDA) with given dataset, we can a
   -Autoviz<br/>
   -Sweetviz<br/>
 
-Here are examples of data profiling using Pandas Profiling.
+Here are examples of data profiling using Pandas-Profiling & SweetViz Libraries.
 
 The output provides quick data comparison, helps in data cleaning & that too in few lines of code.
